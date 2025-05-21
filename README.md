@@ -16,6 +16,6 @@ Os scripts utilizam bibliotecas como xarray, netCDF4, numpy, matplotlib e cartop
 
     Download_NOAA_Data.ipynb: Faz o download dos dados diários de SST da NOAA.
 
-    compute_monthly_mean.ipynb: Processa os dados diários para calcular médias mensais.
+    Calculo_Media_NOAA_Data.ipynb: Processa os dados diários para calcular médias mensais.
 
     plot_sst_maps.ipynb: Gera mapas da SST e da anomalia de SST, com destaque para as áreas Niño.
