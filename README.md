@@ -18,4 +18,6 @@ Os scripts utilizam bibliotecas como xarray, netCDF4, numpy, matplotlib e cartop
 
     Calculo_Media_NOAA_Data.ipynb: Processa os dados diários para calcular médias mensais.
 
-    plot_sst_maps.ipynb: Gera mapas da SST e da anomalia de SST, com destaque para as áreas Niño.
+    plot_sst_maps.py: Gera mapas da SST com destaque para as áreas Niño.
+
+    plot_anom_maps.py: Gera mapas da anomalia de SST com destaque para as áreas Niño.
